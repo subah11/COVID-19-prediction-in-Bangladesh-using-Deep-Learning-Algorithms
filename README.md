@@ -1,2 +1,3 @@
-# Time-Series-prediction-of-COVID-19-cases-in-Bangladesh
-Course: Digital Signal Processing I Laboratory Supervisor: Tanvir Mahmud Time series prediction of the number of COVID-19 cases in Bangladesh using Fbprophet, LSTM, and MLP models
+# COVID-19 prediction in Bangladesh using Deep Learning Algorithms 
+EEE312: Digital Signal Processing 1 Laboratory
+Forecasting the number of COVID-19 patients using multiple Deep Learning models (LSTM, MLP, FBprophet)
